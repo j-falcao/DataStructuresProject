@@ -1,0 +1,22 @@
+{
+  "files.associations": {
+    "listaligada.h": "c",
+    "utils.h": "c",
+    "tipodados.h": "c",
+    "windows.h": "c",
+<<<<<<< Updated upstream
+    "stdio.h": "c",
+    "math.h": "c",
+    "*.tcc": "c"
+=======
+    "*.x": "c"
+>>>>>>> Stashed changes
+  },
+  "C_Cpp.errorSquiggles": "disabled",
+  "files.exclude": {
+    "LICENSE": true,
+    "src\\colorprint.c": true,
+    ".gitignore": true,
+    ".vscode": true
+  }
+}
